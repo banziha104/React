@@ -1,22 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f604bd6a-ec57-48e6-8f2c-34d5c6a23a62" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Markdown/ES6.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Markdown/Tip.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css-module-tutorial/src/App.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css-module-tutorial/src/styles/lib/_all.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css-module-tutorial/src/styles/lib/_mixin.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css-module-tutorial/src/styles/lib/_variables.scss" />
+    <list default="true" id="f604bd6a-ec57-48e6-8f2c-34d5c6a23a62" name="Default" comment="add redux">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Markdown/Styling.md" afterPath="$PROJECT_DIR$/Markdown/Styling.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/begin-redux/src/components/Counter.js" afterPath="$PROJECT_DIR$/begin-redux/src/components/Counter.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/begin-redux/src/containers/CounterContainer.js" afterPath="$PROJECT_DIR$/begin-redux/src/containers/CounterContainer.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css-module-tutorial/package.json" afterPath="$PROJECT_DIR$/css-module-tutorial/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css-module-tutorial/src/App.css" afterPath="$PROJECT_DIR$/css-module-tutorial/src/App.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css-module-tutorial/src/App.js" afterPath="$PROJECT_DIR$/css-module-tutorial/src/App.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css-module-tutorial/yarn.lock" afterPath="$PROJECT_DIR$/css-module-tutorial/yarn.lock" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -135,8 +121,8 @@
         <entry file="file://$PROJECT_DIR$/begin-redux/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="319">
-                <caret line="36" column="10" lean-forward="true" selection-start-line="36" selection-start-column="10" selection-end-line="36" selection-end-column="10" />
+              <first_editor relative-caret-position="95">
+                <caret line="28" column="13" lean-forward="true" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -299,12 +285,6 @@
               <item name="React" type="462c0819:PsiDirectoryNode" />
               <item name="begin-redux" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="React" type="b2602c69:ProjectViewProjectNode" />
-              <item name="React" type="462c0819:PsiDirectoryNode" />
-              <item name="begin-redux" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -389,7 +369,7 @@
       <workItem from="1515734040701" duration="1062000" />
       <workItem from="1515818931366" duration="1369000" />
       <workItem from="1515820961804" duration="372000" />
-      <workItem from="1515821360449" duration="604000" />
+      <workItem from="1515821360449" duration="2831000" />
     </task>
     <task id="LOCAL-00001" summary="add todolist">
       <created>1513410749120</created>
@@ -405,11 +385,18 @@
       <option name="project" value="LOCAL" />
       <updated>1513411617868</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add redux">
+      <created>1515823261620</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1515823261620</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48174000" />
+    <option name="totallyTimeSpent" value="50401000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -474,7 +461,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add todolist" />
-    <option name="LAST_COMMIT_MESSAGE" value="add todolist" />
+    <MESSAGE value="add redux" />
+    <option name="LAST_COMMIT_MESSAGE" value="add redux" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -914,8 +902,8 @@
     <entry file="file://$PROJECT_DIR$/begin-redux/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="319">
-            <caret line="36" column="10" lean-forward="true" selection-start-line="36" selection-start-column="10" selection-end-line="36" selection-end-column="10" />
+          <first_editor relative-caret-position="95">
+            <caret line="28" column="13" lean-forward="true" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
             <folding />
           </first_editor>
           <second_editor />
