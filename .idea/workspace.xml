@@ -2,13 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f604bd6a-ec57-48e6-8f2c-34d5c6a23a62" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Markdown/TODO.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Markdown/tip2.md" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Markdown/Tip.md" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/begin-redux" afterPath="$PROJECT_DIR$/begin-redux" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/nasa-apod" afterPath="$PROJECT_DIR$/nasa-apod" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Markdown/Action.md" afterPath="$PROJECT_DIR$/Markdown/Action.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Markdown/TODO.md" afterPath="$PROJECT_DIR$/Markdown/TODO.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -119,22 +116,12 @@
       <file leaf-file-name="TODO.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Markdown/TODO.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="28">
-                <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+            <state split_layout="FIRST">
+              <first_editor relative-caret-position="168">
+                <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
                 <folding />
               </first_editor>
               <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="reducer_books.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tinder/src/reducers/reducer_books.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="3" column="25" lean-forward="false" selection-start-line="3" selection-start-column="25" selection-end-line="3" selection-end-column="25" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -215,6 +202,8 @@
         <option value="$PROJECT_DIR$/tinder/src/reducers/index.js" />
         <option value="$PROJECT_DIR$/Markdown/Action.md" />
         <option value="$PROJECT_DIR$/Markdown/tip2.md" />
+        <option value="$PROJECT_DIR$/Markdown/ㄴㄴ.ㅓㄴ" />
+        <option value="$PROJECT_DIR$/Markdown/ss.js" />
         <option value="$PROJECT_DIR$/Markdown/TODO.md" />
       </list>
     </option>
@@ -281,7 +270,13 @@
             <path>
               <item name="React" type="b2602c69:ProjectViewProjectNode" />
               <item name="React" type="462c0819:PsiDirectoryNode" />
-              <item name="Markdown" type="462c0819:PsiDirectoryNode" />
+              <item name="redux-starter-kit" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="React" type="b2602c69:ProjectViewProjectNode" />
+              <item name="React" type="462c0819:PsiDirectoryNode" />
+              <item name="redux-starter-kit" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -292,7 +287,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="power.mode.ii" />
     <property name="javascript.nodejs.core.library.configured.version" value="6.11.0" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -370,7 +365,7 @@
       <workItem from="1515821360449" duration="4060000" />
       <workItem from="1516339640435" duration="2766000" />
       <workItem from="1516343496806" duration="711000" />
-      <workItem from="1516423968599" duration="1112000" />
+      <workItem from="1516423968599" duration="1838000" />
     </task>
     <task id="LOCAL-00001" summary="add todolist">
       <created>1513410749120</created>
@@ -421,11 +416,18 @@
       <option name="project" value="LOCAL" />
       <updated>1516343779487</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="add tinder">
+      <created>1516425455205</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1516425455205</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="56219000" />
+    <option name="totallyTimeSpent" value="56945000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -449,7 +451,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32051283" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32062146" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24959612" sideWeight="0.5049226" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3994374" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -501,7 +503,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/css-module-tutorial/abs.js" />
     <entry file="file://$PROJECT_DIR$/todo-list/src/components/Form.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="140">
@@ -831,9 +832,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -914,11 +913,19 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Markdown/ss.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="4" lean-forward="false" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Markdown/TODO.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="28">
-            <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="168">
+            <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
             <folding />
           </first_editor>
           <second_editor />
