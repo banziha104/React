@@ -6,5 +6,7 @@
 - async await 
 - Promise
 - export default
-
-
+- 클로저
+- this 바인딩
+- Router
+    - react-router
